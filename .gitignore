@@ -26,3 +26,21 @@
 *.exe
 *.out
 *.app
+
+# uswish prebuilt
+youi_engine_decode_master/
+youi_engine_decode_master.tar.gz
+
+# CMake dirs and files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+*.dir/
+
+#Cmake iOS generated files
+*.xcodeproj
+CMakeScripts/
+*.build/
+Debug-*/
+Release-*/ 

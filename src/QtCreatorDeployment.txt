@@ -1,0 +1,28 @@
+DecodeApp
+../build/AndroidNative/assets/.gitignore:assets//
+../build/AndroidNative/assets/drawable/default/Screen Shot 2015-11-22 at 3.59.50 PM.png:assets/drawable/default/
+../build/AndroidNative/assets/layout/default/Player_Btn-PlayPause.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_Btn-PlayPause.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_Buffering.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_Buffering.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_Error.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_Error.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_MainComp.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_MainComp.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_PlaybackControls.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_PlaybackControls.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_VideoSurfaceView.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Player_VideoSurfaceView.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen1_MainComp.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen1_MainComp.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen1_NextButton.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen1_NextButton.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen2_MainComp.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen2_MainComp.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen2_NextButton.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen2_NextButton.timeline:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen2_PreviousButton.layout:assets/layout/default/
+../build/AndroidNative/assets/layout/default/Screen2_PreviousButton.timeline:assets/layout/default/
+../build/AndroidNative/assets/yi_Arial Black-Regular.ttf:assets//
+../build/AndroidNative/assets/yi_Arial Narrow-Regular.ttf:assets//
+../build/AndroidNative/assets/yi_Cabin Condensed-Medium.ttf:assets//

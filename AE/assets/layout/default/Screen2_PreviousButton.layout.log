@@ -1,0 +1,164 @@
+activecomp {
+  name: "Screen2_PreviousButton"
+  width: 229
+  height: 100
+  defaultcameradistance: 318.05554
+  layer {
+    name: "Magenta Solid 1"
+    id: 673
+    sourceid: 685
+    transform {
+      anchorPoint {
+        x: 114.5
+        y: 50
+        z: 0
+      }
+      scale {
+        x: 1
+        y: 1
+        z: 1
+      }
+      position {
+        x: 114.5
+        y: 50
+        z: 0
+      }
+      orientation {
+        x: 0
+        y: 0
+        z: 0
+      }
+      rotationX: 0
+      rotationY: 0
+      rotationZ: 0
+      opacity: 1
+    }
+    acceptsshadows: true
+    acceptslights: true
+    castsshadows: false
+  }
+  layer {
+    name: "Black Solid 1"
+    id: 674
+    sourceid: 689
+    transform {
+      anchorPoint {
+        x: 114.5
+        y: 50
+        z: 0
+      }
+      scale {
+        x: 1
+        y: 1
+        z: 1
+      }
+      position {
+        x: 114.5
+        y: 50
+        z: 0
+      }
+      orientation {
+        x: 0
+        y: 0
+        z: 0
+      }
+      rotationX: 0
+      rotationY: 0
+      rotationZ: 0
+      opacity: 0
+    }
+    acceptsshadows: true
+    acceptslights: true
+    castsshadows: false
+  }
+  layer {
+    name: "Next Screen"
+    id: 675
+    sourceid: -1
+    transform {
+      anchorPoint {
+        x: 0
+        y: 0
+        z: 0
+      }
+      scale {
+        x: 1
+        y: 1
+        z: 1
+      }
+      position {
+        x: 113.83887
+        y: 60.715332
+        z: 0
+      }
+      orientation {
+        x: 0
+        y: 0
+        z: 0
+      }
+      rotationX: 0
+      rotationY: 0
+      rotationZ: 0
+      opacity: 1
+    }
+    acceptsshadows: true
+    acceptslights: true
+    castsshadows: false
+    textinfo {
+      justification: AE_TEXT_CENTER
+      fontSize: 30
+      fontColor {
+        alpha: 1
+        red: 0
+        green: 0
+        blue: 0
+      }
+      fontName: "ArialNarrow"
+      isPointText: true
+      isLabel: true
+      text: "Previous Screen"
+      multiline: false
+      isAllCaps: false
+    }
+  }
+  classname: "CYIPushButtonView"
+  bgcolor {
+    alpha: 1
+    red: 0
+    green: 0
+    blue: 0
+  }
+}
+sources {
+  uid: 685
+  srctype: AE_SOLID_SRC
+  color {
+    alpha: 1
+    red: 0.90660202503204346
+    green: 0.20037500560283661
+    blue: 0.86694198846817017
+  }
+  width: 229
+  height: 100
+  copy_source: false
+}
+sources {
+  uid: 689
+  srctype: AE_SOLID_SRC
+  color {
+    alpha: 1
+    red: 0
+    green: 0
+    blue: 0
+  }
+  width: 229
+  height: 100
+  copy_source: false
+}
+sources {
+  uid: 3
+  srctype: AE_FONT_SRC
+  name: "ArialNarrow"
+  copy_source: true
+  file_name: "yi_Arial Narrow-Regular.ttf"
+}

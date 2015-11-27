@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest >
+  <asset-bundle root-dir="../AE/assets">
+    <layout filename="Screen1_MainComp.layout"/>
+    <layout filename="Screen2_MainComp.layout"/>
+  </asset-bundle>
+</manifest>
